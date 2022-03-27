@@ -1,0 +1,3 @@
+Creating new 'Hacker News' by scarping web data of Hacker News site.
+Extracting data based on number of votes received per story and arranged in descending order from most voted to least voted stories; 
+but having atleast 100 votes.
