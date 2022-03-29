@@ -1,5 +1,7 @@
 Project 2: Indeed Web Scraping Job Postings
 
-I built a web scraper, which used BeautifulSoup to parse data science job listings across the US. Job data was stored in CSV file using pandas. The web scraper and all models were built with Python (BeautifulSoup, Pandas).
+I built a web scraper, which used BeautifulSoup to parse data science job listings across the US. 
+Job data was stored in CSV file using pandas. 
+The web scraper and all models were built with Python (BeautifulSoup, Pandas).
 
 IDE: Pycharm
